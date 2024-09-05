@@ -1,0 +1,12 @@
+SERVICE:
+  toc:
+    default: https://toc.test.shopee.io/
+DB:
+  toc:
+    default:
+      host: x
+      port: 6606
+      user: x
+      password: x
+      db: x
+      charset: utf8

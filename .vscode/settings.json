@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+        "--show-capture=no",
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "testing.defaultGutterClickAction": "debug"
+}

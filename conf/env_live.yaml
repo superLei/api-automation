@@ -1,0 +1,12 @@
+SERVICE:
+  toc:
+    default: https://xxx.xxxxxx.xx/
+DB:
+  autoscaler:
+    default:
+      host: xxx
+      port: 6606
+      user: xx
+      password: xx
+      db: db
+      charset: utf8
