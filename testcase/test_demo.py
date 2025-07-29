@@ -15,7 +15,7 @@ class TestDemo(object):
         usually contains tests).
         """
         self.header_auth = {
-            "Authorization": "ApiToken eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ0b2MiLCJpYXQiOjE2NjUzOTEzMDksImp0aSI6Im9HN3dicFJjREVvMFlIMjdqM3RtTHBvU1lWemNzNDFkIiwidWlkIjoxMDAwMDIxLCJleHAiOjQ4MTg5OTEzMDl9.YzWb2aSZ_CO2HNBgAq2H_jBPzdkiONx-EbHUXecSzfs"
+            "Authorization": "test"
         }
         self.toc_yaml_path = PathUtil.get_toc_api_v1_yaml_path()
 
